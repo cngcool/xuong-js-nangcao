@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "admin",
+      "image": "sfsdfsdf",
+      "price": "20000",
+      "description": "safsdf",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Mạnh Cường",
+      "image": "ssss",
+      "price": "22222223456",
+      "description": "wwwwww",
+      "id": 6
+    },
+    {
+      "name": "Nguyễn Mạnh Cường",
+      "image": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.dUstjx8sFg2amlNUtu_e_wHaHa%26pid%3DApi&sp=1728839642T2d61945a273141fcf73123ece141e4faa6e0cf7e9cd00515b645b8faf88132ba",
+      "price": "20000",
+      "description": "meo",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "cuongcool2k51@gmail.com",
+      "password": "$2a$10$LsPVhZkvQDfh.6sj7r.N6u4VvB8xbaJp5xDd/X8UqJFzHAwS4Y7yS",
+      "name": "Nguyễn Mạnh Cường",
+      "role": "admin",
+      "id": 1
+    }
+  ]
+}
